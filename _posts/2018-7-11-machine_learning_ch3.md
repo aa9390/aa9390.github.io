@@ -1,5 +1,4 @@
-
- ---
+---
 layout: post
 title: 인공지능 및 기계학습 개론 Ⅰ - CHAPTER 3 까지 완료
 ---
