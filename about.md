@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+서울여자대학교 컴퓨터학과 정보보호학과
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ese2003@naver.com](mailto:ese2003@naver.com)
