@@ -1,6 +1,6 @@
 ---
-layout: post
-title: 인공지능 및 기계학습 개론 Ⅰ - CHAPTER 3 까지 완료
+ layout: post
+ title: 인공지능 및 기계학습 개론 Ⅰ - CHAPTER 3 까지 완료
  ---
  
 ![study]({{ site.baseurl }}/images/machine_learning.jpeg "study" )
