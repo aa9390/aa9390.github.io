@@ -3,7 +3,7 @@ layout: post
 title: 인공지능 및 기계학습 개론 Ⅰ - CHAPTER 3 까지 완료
 ---
 
-![_config.yml](/images/machine_learning.jpeg)
+![aa9390]({{ site.baseurl }}/images/machine_learning.jpeg "study" )
 
 NAVER에서 주최하는 Data Science Competition 2018에 지원하여 머신러닝 강의를 듣고 있다. 
 
